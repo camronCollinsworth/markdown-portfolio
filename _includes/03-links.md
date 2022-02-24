@@ -1,1 +1,1 @@
-google.com
+[cats](google.com)
