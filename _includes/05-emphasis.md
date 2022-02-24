@@ -1,1 +1,1 @@
-I really enjoy <strong>CATS</strong>
+I really enjoy **CATS**
