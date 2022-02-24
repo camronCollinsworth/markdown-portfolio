@@ -1,1 +1,1 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcute-cat&psig=AOvVaw2LCVsrP32iXaP8dGE1dVYV&ust=1645754239353000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLD4vLiel_YCFQAAAAAdAAAAABAG
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
